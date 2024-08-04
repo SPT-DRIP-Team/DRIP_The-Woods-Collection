@@ -1,0 +1,19 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "PACA Soft Armor (DPM 95)",
+	"type": "RETEXTURE",
+    "shortName": "PACA",
+    "description": "A light but durable and reliable body armor protecting only the vital areas. British DPM 95 version.",
+
+    "baseItemID": "5648a7494bdc2d9d488b4583",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

@@ -1,0 +1,26 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Crye Precision AVS plate carrier (M81 Woodland)",
+	"type": "RETEXTURE",
+    "shortName": "AVS",
+    "description": "The Crye Precision AVS rig equipped with light armored plates (Russian GOST class 4 protection) from combined materials. One of the most comfortable to wear plate carriers. US M81 Woodland version.",
+
+    "baseItemID": "544a5caa4bdc2d1a388b4568",
+    "traderId": "moron",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "childAssorts": {
+        "Front_plate": "656f9fa0498d1b7e3e071d98",
+        "Back_plate": "656f9fa0498d1b7e3e071d98",
+		"Soft_armor_front": "6570e83223c1f638ef0b0ede",
+        "Soft_armor_back": "6570e87c23c1f638ef0b0ee2",
+        "Groin": "6570e90b3a5689d85f08db97"
+    },
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

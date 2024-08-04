@@ -1,0 +1,27 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Interceptor OTV body armor (AOR2)",
+	"type": "RETEXTURE",
+    "shortName": "OTV",
+    "description": "The Interceptor vest consists of a fabric Outer Tactical Vest (OTV) with dorsal and thoracic pockets and two protective ceramic-composite SAPI or ESAPI inserts. The Outer Tactical Vest (OTV) is a basic vest equipped with aramid fabric pouches that protect against ammunition fragments and 9mm handgun bullets. American AOR2 version.",
+
+    "baseItemID": "64abd93857958b4249003418",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "childAssorts": {
+        "Front_plate": "656fb0bd7c2d57afe200c0dc",
+        "Back_plate": "656fb0bd7c2d57afe200c0dc",
+		"Soft_armor_front": "6570f30b0921c914bf07964c",
+        "Soft_armor_back": "6570f35cd67d0309980a7acb",
+        "Soft_armor_left": "6570f3890b4ae5847f060dad",
+        "soft_armor_right": "6570f3bb0b4ae5847f060db2"
+    },
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

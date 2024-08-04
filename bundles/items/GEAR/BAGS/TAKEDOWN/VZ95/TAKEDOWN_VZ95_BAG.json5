@@ -1,0 +1,21 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Hazard 4 Takedown sling backpack (Vz.95)",
+	"type": "RETEXTURE",
+    "shortName": "Takedown",
+    "description": "A single-strap sling backpack designed for carrying long-barreled weapons. Additional external pockets are designed to carry magazines, cleaning kit, or extra parts. Manufactured by Hazard 4. Czech Vz.95 version.",
+
+    "baseItemID": "6038d614d10cbf667352dd44",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+		"shaders",
+		"cubemaps",
+		"items/GEAR/BAGS/TAKEDOWN/VZ95/TEXTURE.bundle"
+    ],
+    "textureGearDependencies": [],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

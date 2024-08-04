@@ -1,0 +1,19 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "LBT-1476A 3Day Pack (Vz.95)",
+	"type": "RETEXTURE",
+    "shortName": "LBT-1476A",
+    "description": "A medium-size 3-day backpack designed for both military and tourist use. Manufactured by London Bridge Trading. Czech Vz.95 version.",
+
+    "baseItemID": "618cfae774bb2d036a049e7c",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

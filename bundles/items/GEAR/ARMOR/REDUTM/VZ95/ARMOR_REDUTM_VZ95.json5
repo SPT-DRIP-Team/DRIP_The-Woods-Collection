@@ -1,0 +1,30 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "FORT Redut-M body armor (Vz.95)",
+	"type": "RETEXTURE",
+    "shortName": "Redut-M",
+    "description": "“Redut-M” is a modified version of the well-proven Redut body armor, which is in service of special units of the FSB. The vest is based on advanced technologies in the field of individual armor. Due to the optimized form of armor elements and the outer cover with a special damping-ventilation system, the Redut M armored vest has excellent functional qualities, which facilitates active actions, including those associated with the use of vehicles and in confined spaces. Czech Vz.95 version.",
+
+    "baseItemID": "5ca2151486f774244a3b8d30",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "childAssorts": {
+        "Front_plate": "65573fa5655447403702a816",
+        "Back_plate": "65573fa5655447403702a816",
+		"Soft_armor_front": "6575dd3e9e27f4a85e081142",
+        "Soft_armor_back": "6575dd519e27f4a85e081146",
+        "Soft_armor_left": "6575dd64945bf78edd04c438",
+        "soft_armor_right": "6575dd6e9d3a0ddf660b9047",
+        "Collar": "6575dd769d3a0ddf660b904b",
+        "Groin": "6575dd800546f8b1de093df6",
+        "Groin_back": "6575dd94945bf78edd04c43c"
+    },
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

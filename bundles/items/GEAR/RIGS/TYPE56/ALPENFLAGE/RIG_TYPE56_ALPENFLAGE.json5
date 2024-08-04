@@ -1,0 +1,19 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Type 56 Chicom chest harness (Alpenflage)",
+	"type": "RETEXTURE",
+    "shortName": "Type 56 Chicom",
+    "description": "The Type 56 Chicom vest is the forefather of modern tactical loadout harness systems. The Type 56 rifle magazine chest harness was developed for the People's Liberation Army of China in the 1950s and has since been widely used in many local conflicts of the 20th century. In the early 1980s, such harnesses made their way to Afghanistan, where they gained acceptance by select Soviet troops who used the trophy Chicoms. It is unknown whether or not the Chicom served as a prototype for the Soviet Belt-A chest rig or not. Swiss TAZ 83 \"Alpenflage\" version.",
+
+    "baseItemID": "64be7110bf597ba84a0a41ea",
+    "traderId": "moron",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

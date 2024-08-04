@@ -1,0 +1,23 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "6B47 Ratnik-BSh helmet (Vz.95)",
+	"type": "RETEXTURE",
+    "shortName": "6B47 Covered",
+    "description": "6B47 is an aramid helmet of Russian origin. As part of the Ratnik program, it is the new standard-issue helmet for most of the Russian Armed Forces. The 6B47 is similar to previous generation helmets such as the 6B7-1M and 6B27. It has equal protection but weighs slightly less, floats in water, and has mounting equipment for lights and night vision devices. The helmet can be fitted with a variety of covers for different environments. Equipped with a Czech Vz.95 camouflage cover.",
+
+    "baseItemID": "5aa7cfc0e5b5b00015693143",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "childAssorts": {
+		"Helmet_top": "657baaf0b7e9ca9a02045c02",
+        "Helmet_back": "657bab6ec6f689d3a205b85f"
+    },
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

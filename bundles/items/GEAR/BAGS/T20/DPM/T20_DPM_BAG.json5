@@ -1,0 +1,19 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Gruppa 99 T20 backpack (DPM 95)",
+	"type": "RETEXTURE",
+    "shortName": "T20",
+    "description": "A backpack with a volume of 22 liters with an ergonomic harness for time-limited tasks. The backpack can be used for both operational tasks and urban carry. With proper packing, the inner volume of the backpack can be 25-27 liters. The minimalistic design and military functionality will be useful in urban environments. Manufactured by Gruppa 99. British DPM 95 Version.",
+
+    "baseItemID": "618bb76513f5097c8d5aa2d5",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

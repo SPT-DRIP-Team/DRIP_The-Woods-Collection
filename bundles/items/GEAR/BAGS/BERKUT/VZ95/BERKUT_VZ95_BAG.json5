@@ -1,0 +1,19 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "WARTECH Berkut BB-102 backpack (Vz.95)",
+	"type": "RETEXTURE",
+    "shortName": "Berkut",
+    "description": "A tactical backpack with front loading capabilities. Suitable for use by military and security forces, or for military tactical games. Manufactured in WARTECH. Czech Vz.95 Version.",
+
+    "baseItemID": "5ca20d5986f774331e7c9602",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

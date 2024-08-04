@@ -1,0 +1,29 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Ars Arma CPC MOD.2 plate carrier (M05)",
+	"type": "RETEXTURE",
+    "shortName": "CPC MOD.2",
+    "description": "The second generation of the CPC body armor designed by Crye Precision and adapted by Ars Arma for use by special forces of the Russian Federation. This modular body armor is based on a polymer corset that fits the body, which avoids the backlash of the body arm during active movement and also contributes to a more even distribution of weight. Made in the assault configuration of pouches and armor elements. Manufactured by Ars Arma. Finnish M05 version.",
+
+    "baseItemID": "5e4ac41886f77406a511c9a8",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "childAssorts": {
+        "front_plate": "656fae5f7c2d57afe200c0d7",
+        "back_plate": "656fae5f7c2d57afe200c0d7",
+        "left_side_plate": "6557458f83942d705f0c4962",
+        "right_side_plate": "6557458f83942d705f0c4962",
+		"soft_armor_front": "6575ef599c7cad336508e453",
+        "soft_armor_back": "6575ef6bf6a13a7b7100b093",
+        "soft_armor_left": "6575ef78da698a4e980677eb",
+        "soft_armor_right": "6575ef7f9c7cad336508e457"
+    },
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

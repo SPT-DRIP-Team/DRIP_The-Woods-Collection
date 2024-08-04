@@ -1,0 +1,27 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Eagle Industries MMAC plate carrier (DPM 95)",
+	"type": "RETEXTURE",
+    "shortName": "MMAC",
+    "description": "The Eagle Industries Multi-Mission Tactical Vest (MMAC) is a traditional profile vest offering modularity and scalability. The tactical vest is constructed of MIL-SPEC 500 denier nylon and is fully MOLLE/PALS compatible. It features padded shoulders with detachable retention loops, push-to-talk (PTT) attachment points at upper left and right chest and many other features. British DPM 95 version.",
+
+    "baseItemID": "61bc85697113f767765c7fe7",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "childAssorts": {
+        "Front_plate": "656fad8c498d1b7e3e071da0",
+        "Back_plate": "656fad8c498d1b7e3e071da0",
+		"Soft_armor_front": "6572fc809a866b80ab07eb59",
+        "Soft_armor_back": "6572fc8c9a866b80ab07eb5d",
+        "Soft_armor_left": "6572fc989a866b80ab07eb61",
+        "soft_armor_right": "6572fca39a866b80ab07eb65"
+    },
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

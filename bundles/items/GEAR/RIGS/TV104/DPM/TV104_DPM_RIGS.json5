@@ -1,0 +1,19 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "WARTECH MK3 TV-104 chest rig (DPM 95)",
+	"type": "RETEXTURE",
+    "shortName": "MK3 TV-104",
+    "description": "This chest rig platform is designed for placing equipment in the chest and abdomen areas, with an open back. Includes integrated pouches, designed for 8 magazines. Can be used both separately and on top of the armor vest. Manufactured by WARTECH. British DPM 95 version.",
+
+    "baseItemID": "5ab8dab586f77441cd04f2a2",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

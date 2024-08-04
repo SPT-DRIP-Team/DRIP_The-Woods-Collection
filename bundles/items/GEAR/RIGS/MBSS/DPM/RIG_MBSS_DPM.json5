@@ -1,0 +1,19 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Eagle Allied Industries MBSS plate carrier (DPM 95)",
+	"type": "RETEXTURE",
+    "shortName": "MBSS",
+    "description": "The MBSS vest is part of the Maritime Ballistic Survivor System. The vest can be used with flotation inserts to provide buoyancy as it is not equipped with a quick release system. Manufactured by Eagle Allied Industries. British DPM 95 version.",
+
+    "baseItemID": "64a5366719bab53bd203bf33",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

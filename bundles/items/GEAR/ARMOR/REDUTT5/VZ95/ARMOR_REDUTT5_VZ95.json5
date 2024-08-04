@@ -1,0 +1,34 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "FORT Redut-T5 body armor (Vz.95)",
+	"type": "RETEXTURE",
+    "shortName": "Redut-T5",
+    "description": "The FORT \"Redut T5\" armor vest is a reinforced version of Redut armor series, designed with account of the many years of experience in counter-terrorism operations in the Russian Federation. Czech Vz.95 version.",
+
+    "baseItemID": "5ca21c6986f77479963115a7",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "childAssorts": {
+        "Front_plate": "65573fa5655447403702a816",
+        "Back_plate": "65573fa5655447403702a816",
+        "Left_side_plate": "64afd81707e2cf40e903a316",
+        "Right_side_plate": "64afd81707e2cf40e903a316",
+		"Soft_armor_front": "6575d9a79e27f4a85e08112d",
+        "Soft_armor_back": "6575d9b8945bf78edd04c427",
+        "Soft_armor_left": "6575d9c40546f8b1de093dee",
+        "soft_armor_right": "6575d9cf0546f8b1de093df2",
+        "Collar": "6575d9d8945bf78edd04c42b",
+        "Shoulder_l": "6575da07945bf78edd04c433",
+        "Shoulder_r": "6575da159e27f4a85e081131",
+        "Groin": "6575d9e7945bf78edd04c42f",
+        "Groin_back": "6575d9f816c2762fba00588d"
+    },
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

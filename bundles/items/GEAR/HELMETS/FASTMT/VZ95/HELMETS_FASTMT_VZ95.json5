@@ -1,0 +1,27 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Ops-Core FAST MT Super High Cut helmet (Vz.95)",
+	"type": "RETEXTURE",
+    "shortName": "FAST MT",
+    "description": "The Ops-Core FAST ballistic helmet is popular in special forces all around the world. Can be modified with different components. Czech Vz.95 version.",
+
+    "baseItemID": "5ac8d6885acfc400180ae7b0",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+		"items/GEAR/HELMETS/FASTMT/VZ95/TEXTURE1.bundle",
+		"items/GEAR/HELMETS/FASTMT/VZ95/TEXTURE2.bundle"
+    ],
+	"textureGearDependencies1": [],
+	"textureGearDependencies2": [],
+    "childAssorts": {
+		"Helmet_top": "657f8ec5f4c82973640b234c",
+        "Helmet_back": "657f8f10f4c82973640b2350"
+    },
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}
